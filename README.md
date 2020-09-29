@@ -3,8 +3,7 @@
 
 shrek 
 the 
-3rd 
-was 
-an 
+3rd, 1st, and 2nd 
+were  
 inside 
-job
+jobs
